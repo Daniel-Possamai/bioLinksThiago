@@ -1,5 +1,5 @@
 body{
-    height: 100vh;
+    
     background: var(--bgUrl) no-repeat top center/cover;
 }
 
@@ -178,5 +178,11 @@ footer a span{
 
     .light{
         --bgUrl: url(../images/bg-desktop-light.jpg);
+    }
+}
+
+@media (max-width: 700px){
+    footer{
+        font-size: 12px;
     }
 }
