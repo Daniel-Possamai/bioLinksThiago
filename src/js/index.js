@@ -2,7 +2,7 @@ let btnTheme = document.getElementById('switch');
 let meuHtml = document.querySelector('html');
 let profileImg = document.querySelector('#profile img');
 
-meuHtml.classList.toggle('light');
+// meuHtml.classList.toggle('light');
 
 btnTheme.addEventListener('click', () => {
     meuHtml.classList.toggle('light');
