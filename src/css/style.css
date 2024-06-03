@@ -76,9 +76,9 @@ body *{
     backdrop-filter: blur(4px);
 }
 
-.light #switch button{
+/* .light #switch button{
     animation: slideIn .4s forwards;
-}
+} */
 
 /* Animação */
 
