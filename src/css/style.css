@@ -1,9 +1,12 @@
+
+
 body{
     
     background: var(--bgUrl) no-repeat bottom left/cover;
-    backdrop-filter: blur(10px);
+    
     
 }
+
 
 body *{
     font-family: "Inter", sans-serif;
@@ -183,7 +186,7 @@ footer a span{
     }
 
     body{
-    
+        
         background: var(--bgUrl) no-repeat bottom left/cover;
     }
 }
