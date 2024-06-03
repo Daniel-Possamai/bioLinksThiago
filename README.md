@@ -1,4 +1,4 @@
-# Projeto Discover Dev Links 👨‍💻
+# Armazenador de links
 
 Esse repositório armazena um acumulador de links para facilitar a comunicação de usuários com o perfil.
 
@@ -21,4 +21,3 @@ Esse repositório armazena um acumulador de links para facilitar a comunicação
 * HTML 
 * CSS
 * JavaScript
-* Figma
