@@ -177,18 +177,18 @@ footer a span{
 /* Background */
 
 @media (min-width: 700px) {
-    :root {
+    /* :root {
         --bgUrl: url(../images/gymBg.jpg);
     }
 
     .light{
         --bgUrl: url(../images/gymBg.jpg);
-    }
+    } */
 
-    body{
+    /* body{
         
         background: var(--bgUrl) no-repeat bottom left/cover;
-    }
+    } */
 }
 
 @media (max-width: 700px){
