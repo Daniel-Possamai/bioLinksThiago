@@ -1,6 +1,8 @@
 body{
     
-    background: var(--bgUrl) no-repeat top center/cover;
+    background: var(--bgUrl) no-repeat bottom left/cover;
+    backdrop-filter: blur(10px);
+    
 }
 
 body *{
@@ -173,11 +175,16 @@ footer a span{
 
 @media (min-width: 700px) {
     :root {
-        --bgUrl: url(../images/bg-desktop.jpg);
+        --bgUrl: url(../images/gymBg.jpg);
     }
 
     .light{
-        --bgUrl: url(../images/bg-desktop-light.jpg);
+        --bgUrl: url(../images/gymBg.jpg);
+    }
+
+    body{
+    
+        background: var(--bgUrl) no-repeat bottom left/cover;
     }
 }
 
