@@ -1,7 +1,10 @@
-
+html{
+    width: 100%;
+    height: 100vh;
+}
 
 body{
-    height: 100vh;
+    
     background: var(--bgUrl) no-repeat bottom left/cover;
 
     
